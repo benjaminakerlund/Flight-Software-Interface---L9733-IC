@@ -1,7 +1,7 @@
-## Flight-Software-Interface---L9733-IC
+# Flight-Software-Interface---L9733-IC
 Assignment for job application to Flight Software Engineering July of 2021. 
 
-# The assignment was to propose an interface for a driver of L9733 integrated circuit, in form of a C header file.
+### The assignment was to propose an interface for a driver of L9733 integrated circuit, in form of a C header file.
 
 * No actual implementation of the driver is needed. Write just the header file. The header should contain function prototypes and whatever other items you consider necessary to interact with the chip.
 * Write a C language header; assume the compiler can handle C99 standard. Don't use C++.
